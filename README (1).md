@@ -4,11 +4,11 @@ Simple calculator project made with Micro:bit and Python.
 
 ## Author
 
-**Radim Sekac**
+**Radim Sekáč**
 
 ## Description
 
-This is a simple calculator created with Micro:bit using Python.
+A simple calculator created with Micro:bit using Python.
 
 The program allows the user to enter two numbers and display the result.
 
